@@ -1,0 +1,7 @@
+
+{
+  "name": "Minecraft Bedrock",
+  "content_in_root": true,
+  "domains": ["sensor"],
+  "iot_class": "cloud_poll"
+}
